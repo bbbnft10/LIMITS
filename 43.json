@@ -1,0 +1,26 @@
+{
+  "format": "CHIP-0007",
+  "minting_tool": "mintgarden-studio",
+  "sensitive_content": false,
+  "name": "NO LIMITS #43",
+  "description": "A fearless evolution of desire and liquid energy. Dark sensuality, hypnotic intensity, and explosive chrome collide in a vision without boundaries.\n\nDark. Sensual. Unrestrained.",
+  "attributes": [],
+  "collection": {
+    "id": "adbfc586-12da-41f9-abef-7a359fb475a0",
+    "name": "HOTSHOT : NO LIMITS",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "A fearless evolution of desire and liquid energy. Dark sensuality, hypnotic intensity, and explosive chrome collide in a vision without boundaries.\n\nDark. Sensual. Unrestrained."
+      },
+      {
+        "type": "icon",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeih6sjf3xao72tl3euumy4gix5ucixgucsgximwfi3uw33nhzppivu/1000132279.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeicw2vtpkg2g2x65e5do3ktxxf6qa7ktv5qk2htvsrljn2hqyamyyu/1000132280.jpg"
+      }
+    ]
+  }
+}
